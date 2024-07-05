@@ -13,7 +13,7 @@ public:
             }
         }
         top=max(top,count);
-        if(top>N)return -1;
+        
         return top;
         
     }
